@@ -1,5 +1,5 @@
 # cristinasj
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinasj&theme=blue-green&layout=compact)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinasj&layout=compact)
 
 ## My projects
 - The project that I'm most proud of is the [music translate addon for Anki](https://github.com/Cristinasj/musicTranslateAddon) 
