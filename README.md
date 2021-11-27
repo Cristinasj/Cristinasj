@@ -1,9 +1,6 @@
-# cristinasj
+# Cristinasj
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinasj&layout=compact&count_private=true)
-
-### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
-
 
 ## My projects
 - The project that I'm most proud of is the [music translate addon for Anki](https://github.com/Cristinasj/musicTranslateAddon) 
