@@ -1,5 +1,5 @@
 # Cristinasj
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinasj&layout=compact&count_private=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinasj&count_private=true&theme=dark)
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristinasj&theme=dark" width="48%" >
 
