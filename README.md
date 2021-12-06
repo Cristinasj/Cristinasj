@@ -2,6 +2,8 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinasj&count_private=true&theme=dark)
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristinasj&theme=dark" width="48%" >
+Best Anki streak is 250 days
+ <img src="img_girl.jpg" alt="250 days"> 
 
 ## My projects
 - The project that I'm most proud of is the [music translate addon for Anki](https://github.com/Cristinasj/musicTranslateAddon) 
