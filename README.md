@@ -1,9 +1,10 @@
 # Cristinasj
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinasj&count_private=true&theme=dark)
 <br>
+
 ## My streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristinasj&theme=dark" width="48%" >
-<br>Best Anki streak is 250 days<br>
+Best Anki streak is 250 days<br>
  <img src="AnkiStreak.jpg" alt="Anki streak 250" style="width:510px;height:147px;"> 
 
 ## My projects
