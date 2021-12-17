@@ -8,7 +8,7 @@ Best Anki streak is 250 days<br>
  <img src="AnkiStreak.jpg" alt="Anki streak 250" style="width:510px;height:147px;"> 
 
 ## My projects
-- The project that I'm most proud of is the [music translate addon for Anki](https://github.com/Cristinasj/musicTranslateAddon) 
+- The project that I'm most proud of is the [lyrics cloze generator for Anki](https://github.com/Cristinasj/musicTranslateAddon) 
 - I've also done some [web scrapping that got me into trouble](https://github.com/Cristinasj/SWADhacks) 
 - Long time ago I tried to make a [shopping manager](https://github.com/Cristinasj/shoppingManager) but the project is stopped at the moment 
 
