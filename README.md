@@ -1,5 +1,4 @@
 # Cristinasj
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinasj&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinasj&count_private=true&theme=dark&hide=Jupyter-Notebook)
 <br>
 
