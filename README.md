@@ -4,7 +4,7 @@
 
 ## My streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristinasj&theme=dark" width="48%" >
-Best Anki streak is 256 days and counting<br>
+Best Anki streak is 293 days and counting<br>
  <img src="AnkiStreak258.jpg" alt="Anki streak 250" style="width:510px;height:147px;"> 
 
 ## My projects
