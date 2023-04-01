@@ -14,6 +14,6 @@ Best Anki streak is 293 days<br>
 - Long time ago I tried to make a [shopping manager](https://github.com/Cristinasj/shoppingManager) but the project is stopped at the moment 
 
 ## My University projects 
-Most of my programming has been done for university. All my subjects are organized on my University repository
+Most of my programming has been done for university. All my subjects are organized on my [University repository](https://github.com/Cristinasj/University)
 
 <a href="https://www.linkedin.com/in/cristina-s%C3%A1nchez-justicia-46028b20a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
