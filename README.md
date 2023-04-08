@@ -1,5 +1,5 @@
 # Cristinasj
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinasj&count_private=true&theme=dark&hide=Jupyter-Notebook&hide=http)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinasj&count_private=true&theme=dark&hide=Jupyter-Notebook)
 <br>
 My favorite languages are Python, Java, C++, C and Ruby. 
 
