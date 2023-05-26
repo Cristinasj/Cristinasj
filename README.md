@@ -1,4 +1,5 @@
 # Cristinasj
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ae15116c-690c-4e01-979f-76274c8c72d0/deploy-status)](https://app.netlify.com/sites/nutrientcounter/deploys)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinasj&count_private=true&theme=dark&hide=HTML)
 <br>
 My favorite languages are Python, Java, C++, C and Ruby. 
